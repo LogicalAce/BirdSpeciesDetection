@@ -1,0 +1,2 @@
+This project presents an automated model that utilizes deep neural networks to identify bird species based on a provided dataset. The model was trained and evaluated using images of 20 different bird species, totaling 7,637 images (5,784 for training and 1,853 for testing). Remarkably, the model achieved an accuracy of 98% on the test dataset, demonstrating its potential for effective species identification.
+
